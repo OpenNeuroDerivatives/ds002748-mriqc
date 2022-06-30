@@ -1,1 +1,32 @@
-../../../../.git/annex/objects/p8/18/MD5E-s1678--0772863ca8ec4fe5e7af1d6273e68cef/MD5E-s1678--0772863ca8ec4fe5e7af1d6273e68cef
+Warning: Permanently added 'c161-022' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-074' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-092' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-104' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-131' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-133' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-171' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-181' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-191' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c162-002' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c162-062' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c162-141' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c163-031' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c163-042' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c163-073' (ED25519) to the list of known hosts.
+WARNING (02/12/22 03:50:56): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4038055.hostlist.2nLoUVVe to get hosts
+starting job on c161-022
+starting job on c161-074
+starting job on c161-092
+starting job on c161-104
+starting job on c161-131
+starting job on c161-133
+starting job on c161-171
+starting job on c161-181
+starting job on c161-191
+starting job on c162-002
+starting job on c162-062
+starting job on c162-141
+starting job on c163-031
+starting job on c163-042
+starting job on c163-073
